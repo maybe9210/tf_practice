@@ -1,5 +1,5 @@
 {
-    "python.pythonPath": "C:\\Users\\USER\\Anaconda3\\python.exe"
+    "python.pythonPath": "C:\\Users\\USER\\Anaconda3\\envs\\tf_cpu\\python.exe"
     // "python.pythonPath": "C:\\Users\\USER\\Anaconda3\\envs\\tf_cpu\\python.exe",
     // "python.venvPath": "C:\\Users\\USER\\Anaconda3\\envs",
     // "terminal.integrated.shellArgs.windows": ["/K", "C:\\Users\\USER\\Anaconda3\\Scripts\\activate.bat", "C:\\Users\\USER\\Anaconda3"]
